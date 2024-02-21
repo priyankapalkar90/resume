@@ -1,2 +1,2 @@
-# resume
-my resume from complete Selenium And Automation Testing course
+# Resume
+Resume project using HTML and CSS.
