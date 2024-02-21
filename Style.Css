@@ -1,0 +1,123 @@
+
+
+.head{
+  border: 2px;
+  border-color:black;
+  border-style: solid;
+  background-color: grey;
+  border-radius: 50px;
+  display: flex;
+ 
+}
+ 
+.img{
+ 
+  border-radius:50px;
+  margin-left: 50px;
+  object-fit: contain;
+  width: 100px;
+  height: 200px;
+  
+}
+
+
+
+.name{
+  text-align:right;
+  font-family: italic;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+ margin-left: 20px;
+  margin-top: 20px;
+  outline-offset: 50px;
+}
+
+.objectives{
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  padding: 10px;
+
+}
+
+  
+
+
+.Education-Details {
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  padding: 10px;
+
+  
+}
+table, th, td {
+  border: 2px solid;
+}
+td{
+  padding:20px ;
+}
+  
+    
+
+  
+
+.Personal-Projects {
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  padding: 10px;
+
+}
+
+.Skils {
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  padding: 10px;
+
+}
+.Strength{
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  padding: 10px;
+
+   
+}
+.Languages{
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  padding: 10px;
+
+}
+.Certification{
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 10px;
+  padding: 10px;
+
+}
+
+  
+
+  
+  
+    
+  
+
+
+
+  
+
+
+
